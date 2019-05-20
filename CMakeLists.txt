@@ -6,7 +6,7 @@ set(HEADER_FILES HashTable.h)
 
 add_library(HashTable HashTable.cpp ${HEADER_FILES})
 
-add_executable(Dictionary Dictionary.cxx ${HEADER_FILES})
+add_executable(Dictionary Dictionary.cpp ${HEADER_FILES})
 
 target_link_libraries(Dictionary HashTable)
 
