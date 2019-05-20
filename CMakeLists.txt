@@ -10,4 +10,4 @@ add_executable(Dictionary Dictionary.cxx ${HEADER_FILES})
 
 target_link_libraries(Dictionary HashTable)
 
-target_compile_options(main PRIVATE -std=c++0x -g -Wall)
+target_compile_options(Dictionary PRIVATE -std=c++0x -g -Wall)
