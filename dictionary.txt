@@ -1,0 +1,5 @@
+Mammal : a warm-blooded vertebrate animal of a class that is distinguished by the possession of hair or fur, the secretion of milk by females for the nourishment of the young, and (typically) the birth of live young.
+Reptile : a vertebrate animal of a class that includes snakes, lizards, crocodiles, turtles, and tortoises. They are distinguished by having a dry scaly skin and typically laying soft-shelled eggs on land.
+Spider : an eight-legged predatory arachnid with an unsegmented body consisting of a fused head and thorax and a rounded abdomen. Spiders have fangs which inject poison into their prey, and most kinds spin webs in which to capture insects.
+Native : a person born in a specified place or associated with a place by birth, whether subsequently resident there or not.
+College : an educational institution or establishment, in particular one providing higher education or specialized professional or vocational training.
