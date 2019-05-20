@@ -6,8 +6,8 @@ set(HEADER_FILES HashTable.h)
 
 add_library(HashTable HashTable.cpp ${HEADER_FILES})
 
-add_executable(Dictionary Dictionary.cpp ${HEADER_FILES})
+add_executable(main main.cpp ${HEADER_FILES})
 
-target_link_libraries(Dictionary HashTable)
+target_link_libraries(main HashTable)
 
-target_compile_options(Dictionary PRIVATE -std=c++0x -g -Wall)
+target_compile_options(main PRIVATE -std=c++0x -g -Wall)
